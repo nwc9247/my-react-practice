@@ -13,3 +13,4 @@ This is a practice React project where I learned:
 - **Product**: A product list component
 - **About**: A about component
 
+![Component](images/output.png)
