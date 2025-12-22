@@ -13,4 +13,8 @@ This is a practice React project where I learned:
 - **Product**: A product list component
 - **About**: A about component
 
+<<<<<<< HEAD
 ![Component](images/output.png)
+=======
+git add README.md src/assets/output.png
+>>>>>>> 0aa4506b7dc00921b091b06de27e94b94b7ee855
