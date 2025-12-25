@@ -52,3 +52,67 @@
   list-style: none;
   font-weight: 500;
 }
+
+.card {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(57, 204, 209);
+  width: 80%;
+  max-width: 200px;
+  margin: 100px auto;
+  border-radius: 12px;
+  box-shadow: 0 14px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 7px;
+  transition: all .3s ease-in;
+}
+
+.card img:hover {
+  transform: translateY(-2px);
+}
+
+
+.card p {
+  font-weight: 500;
+}
+
+.product-card {
+  background-color: rgb(57, 204, 209);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 19px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.product-card .cardP {
+  background-color: aquamarine;
+  border-radius: 10px;
+  box-shadow: 0 14px 18px rgba(0, 0, 0, 0.3);
+  padding-bottom: 20px;
+  position: relative;
+
+}
+
+.cardP h3 {
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.cardP p {
+  font-weight: 500;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  padding-top: 10px;
+
+}
+
+h1 {
+  border-bottom: 2px solid gray;
+  width: 250px;
+  margin: 50px 300px;
+}
