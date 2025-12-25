@@ -15,5 +15,8 @@ This is a practice React project where I learned:
 
 <<<<<<< HEAD
 ![Component](images/output.png)
+Image:1
+![Component](images/output1.png)
+updated imgage 2
 =======
 git add README.md src/assets/output.png
