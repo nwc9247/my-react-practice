@@ -12,6 +12,8 @@ This is a practice React project where I learned:
 - **Button**: A reusable button component
 - **Product**: A product list component
 - **About**: A about component
+- **ProductCard**: This component receives title, image, and price as props to display product details dynamically.
+- **ProductList**: This component uses api call, used async function and make a card that contains title, and price.
 
 ![Component](images/output.png)
 Image:1
